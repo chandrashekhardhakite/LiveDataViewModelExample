@@ -62,12 +62,12 @@ public class MyViewModel extends ViewModel {
             publishProgress("Sleeping..."); // Calls onProgressUpdate()
             try {
                 if (nameStringList != null) {
-                    nameStringList.add("Chandra");
-                    nameStringList.add("Minakshi");
-                    nameStringList.add("Jinal");
-                    nameStringList.add("Krishna");
-                    nameStringList.add("Hira");
-                    nameStringList.add("Motiram");
+                    nameStringList.add("Rock");
+                    nameStringList.add("Alladin");
+                    nameStringList.add("Broke");
+                    nameStringList.add("Steve");
+                    nameStringList.add("Mike");
+                    nameStringList.add("Sam");
                 }
                 int time = Integer.parseInt(params[0]) * 1000;
 
